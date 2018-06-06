@@ -28,7 +28,7 @@ TBD...
 
 ## TBD
 
-- [ ] Complete LUIS NLP
+- [ ] Complete LUIS NLP (or seq2seq)
 - [ ] Add Image Recognition API
 
 ## Reference
