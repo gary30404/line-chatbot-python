@@ -21,9 +21,7 @@
 ## Tutorial
 
 * Line
-
 * Heroku
-
 * LUIS
 
 TBD...
@@ -32,3 +30,9 @@ TBD...
 
 - [ ] Complete LUIS NLP
 - [ ] Add Image Recognition API
+
+## Reference
+
+* [Line-Bot-SDK-Python](https://github.com/line/line-bot-sdk-python)
+* [LUIS-Python](https://github.com/Microsoft/Cognitive-LUIS-Python)
+* [LUIS-docs](https://docs.microsoft.com/en-us/azure/cognitive-services/luis/luis-get-started-python-get-intent)
